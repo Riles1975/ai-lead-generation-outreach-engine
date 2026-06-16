@@ -71,3 +71,7 @@ The system can be adapted for:
 ## Status
 
 Portfolio demonstration project.
+
+## Workflow Screenshot
+
+See repository assets for workflow implementation screenshot.
